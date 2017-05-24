@@ -16,6 +16,9 @@ colors:
   box-sizing: border-box;
 }
 
+table{
+  border-collapse: collapse;
+}
 td{
   border-style: solid;
   border-color: rgb(10,156,208);
